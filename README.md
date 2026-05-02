@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman;Data+Scientist+%7C+ML+Engineer;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9CDB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman;CS+Student+%7C+ML+Enthusiast;Learning+%E2%86%92+Building+%E2%86%92+Collaborating)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=aman-dev-maker&style=flat-square&color=2D9CDB&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -11,13 +11,14 @@
 
 ## 🧠 About Me
 
-I'm a **Data Scientist & ML Engineer** passionate about building intelligent systems that solve real-world problems. I believe collaboration is the heartbeat of great science — if you're working on something impactful, let's talk.
+I'm a **CS Student** passionate about Data Science & Machine Learning — learning every day and building projects that matter. I believe collaboration is how you grow fastest — if you're working on something interesting, let's connect!
 
-- 🔬 Currently exploring **machine learning for genomics & healthcare**
-- 🤝 Open to **collaborating on ML research, data pipelines, and open science**
-- 📊 I love turning messy, complex data into clean, actionable insight
-- 🌍 Interested in AI for social good — health, climate, equity
-- 💬 Ask me about **Python, ML workflows, data visualization, or bioinformatics**
+- 📚 Currently studying and diving deep into **Machine Learning & Data Science**
+- 🔬 Exploring **ML for genomics & healthcare** through open science projects
+- 🤝 Open to **collaborating on ML projects, research, and open datasets**
+- 📊 Love turning raw, messy data into clean, actionable insight
+- 🌱 Always learning — currently focused on **Python, ML workflows & bioinformatics**
+- 💬 Ask me about **Python, Jupyter, data visualization, or anything ML**
 
 ---
 
@@ -101,7 +102,7 @@ I'm actively looking for collaborators on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-dev-maker)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman-dev-maker)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanniju2@gmail.com)
 
 </div>
 
